@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DeliveryApp/static/css/main.1cb8be26.chunk.css",
+    "main.js": "/DeliveryApp/static/js/main.dbb01669.chunk.js",
+    "main.js.map": "/DeliveryApp/static/js/main.dbb01669.chunk.js.map",
+    "runtime-main.js": "/DeliveryApp/static/js/runtime-main.66f238c8.js",
+    "runtime-main.js.map": "/DeliveryApp/static/js/runtime-main.66f238c8.js.map",
+    "static/js/2.e4aa6ffe.chunk.js": "/DeliveryApp/static/js/2.e4aa6ffe.chunk.js",
+    "static/js/2.e4aa6ffe.chunk.js.map": "/DeliveryApp/static/js/2.e4aa6ffe.chunk.js.map",
+    "index.html": "/DeliveryApp/index.html",
+    "precache-manifest.7239e32098fbfd57a633f3b8950e62f8.js": "/DeliveryApp/precache-manifest.7239e32098fbfd57a633f3b8950e62f8.js",
+    "service-worker.js": "/DeliveryApp/service-worker.js",
+    "static/css/main.1cb8be26.chunk.css.map": "/DeliveryApp/static/css/main.1cb8be26.chunk.css.map"
+  }
+}
